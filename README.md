@@ -6,7 +6,7 @@ To whom who is viewing it. This is my first time using Git Hub and I am really n
    docker run -it --entrypoint=bash python:3.12.8
    pip --version
 
-**## Question 2**
+**##Question 2**
 wget https://github.com/DataTalksClub/nyc-tlc-data/releases/download/green/green_tripdata_2019-10.csv.gz
 wget https://github.com/DataTalksClub/nyc-tlc-data/releases/download/misc/taxi_zone_lookup.csv
 docker-compose up -d
