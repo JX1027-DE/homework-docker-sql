@@ -1,5 +1,5 @@
 # homework-docker-sql
-# To whom who is viewing it. This is my first time using Git Hub and I am really not sure if this is what the organizer asked for. Due to time limitation (It is the end of semester, so I am juggling with my academic while participating in this insightful zoomcamp), so I just copy and paste all the codes. Sorry for inconvinience. 
+To whom who is viewing it. This is my first time using Git Hub and I am really not sure if this is what the organizer asked for. Due to time limitation (It is the end of semester, so I am juggling with my academic while participating in this insightful zoomcamp), so I just copy and paste all the codes. Sorry for inconvinience. 
 
 ## Question 1: Understanding Docker First Run
 docker run -it python:3.12.8 bash
